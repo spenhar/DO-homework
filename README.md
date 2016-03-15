@@ -13,3 +13,4 @@ View All Droplet Activity
 View 
 
 Operating under the assumption that the most common use case for viewing multiple droplet metrics is because you have an app with multiple droplets working together. 
+
