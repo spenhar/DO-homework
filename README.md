@@ -1,4 +1,3 @@
-# DO-homework
 ---
 ### Challenge 2
 DigitalOcean users need a way to compare graphs from several different droplets in order to troubleshoot whether an issue is affecting a single droplet or more. Currently, we only allow users to see graphs for each droplet separately.
