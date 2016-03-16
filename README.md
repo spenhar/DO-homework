@@ -28,6 +28,9 @@ The 'Droplets' view is the primary view when logged into the app, I think this w
 A user wants to drill past the top-level status message and monitor the state of multiple droplets, so they click through and see some kind of compound graph or monitoring system similar to your internal team or the sketch below:
 <img src="https://cloud.githubusercontent.com/assets/6846053/13792917/acb1f44c-eaca-11e5-9147-55feacdfbba2.jpg">
 <img src="https://cloud.githubusercontent.com/assets/6846053/13800487/0fb27906-eb00-11e5-845d-9894f241a59f.jpg">
+* The second drawing shows 4 different line-graphs stacked, with the most pressing concern in front. 
+* There is a clear 'Danger Zone' which also allows someone to quickly see when their performance stats are getting in to too-hott territory. 
+
 I imagine this graph view displaying multiple droplet performance information is a great time to sell a customer on an upgrade. In my thinking through this problem, I couldn't help but return back to how important messaging and notification must be for DO. Putting myself in the shoes of a frequent D.O. user, I'd likely not be monitoring all the time, but would want to know immediately if my server was reaching the upper limits of it's capabilities so I could have time to upgrade before it failed. Alternately, I was brainstorming an option of having a premium droplet option that was 'stretchy' so as to accommodate for any surges in performance needs - a pay-what-is-used model for those who want to set it and forget it.
 
 Clearly I am limited in my knowledge of D.O. business strategy and user behaviors, so my thoughts are almost entirely built on conjecture from using the product a few times to test and accomplish this assignment.
