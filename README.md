@@ -4,6 +4,10 @@ DigitalOcean users need a way to compare graphs from several different droplets 
 How and where might we create an interface that allows users to keep track of important metrics across their many droplets?
 
 --- 
+
+---
+# How
+
 To keep track of metrics across many droplets there are two solutions:
 1. Select multiple droplets to compare
 2. Grouping
