@@ -1,4 +1,4 @@
-## Challenge 2
+#### Challenge 2
 DigitalOcean users need a way to compare graphs from several different droplets in order to troubleshoot whether an issue is affecting a single droplet or more. Currently, we only allow users to see graphs for each droplet separately.
 
 How and where might we create an interface that allows users to keep track of important metrics across their many droplets?
@@ -13,6 +13,7 @@ View selected droplet activity
 
 Operating under the assumption that the most common use case for viewing multiple droplet metrics is because you have an app with multiple droplets working together. 
 
+---
 # Where
 The 'Droplets' view is the primary view when logged into the app, I think this would be a great place to give an at-a-glance status of your servers. Especially helpful when you can see what the status of your cluster is. 
 
