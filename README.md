@@ -14,8 +14,9 @@ View selected droplet activity
 
 Operating under the assumption that the most common use case for viewing multiple droplet metrics is because you have an app with multiple droplets working together. 
 
-[https://cloud.githubusercontent.com/assets/6846053/13792898/9ea6314c-eaca-11e5-84f2-3657dcbebd72.jpg]
 
-<img width="50%" alt="2-droplets" src="https://cloud.githubusercontent.com/assets/6846053/13792911/ac97a42a-eaca-11e5-931f-5363c3130819.png">
+The current 'Droplets' view:
+<img width="1156" alt="2-droplets" src="https://cloud.githubusercontent.com/assets/6846053/13792911/ac97a42a-eaca-11e5-931f-5363c3130819.png">
 
+A mockup of what it might look like to have a group, including a high-level snapshot of performance status:
 ![2-droplets-group-mockup](https://cloud.githubusercontent.com/assets/6846053/13792910/ac953122-eaca-11e5-8ed4-902a76d5cdd0.jpg)
