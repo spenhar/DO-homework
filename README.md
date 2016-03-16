@@ -26,4 +26,5 @@ A mockup of what it might look like to have a group, including a high-level snap
 --- 
 ### Additional Ideas
 When your droplets are processing and the user is waiting for status bars to show that set-up is complete, there is an opportunity to do something: why not ask if they want these droplets to be grouped?
+<img src="https://cloud.githubusercontent.com/assets/6846053/13800487/0fb27906-eb00-11e5-845d-9894f241a59f.jpg">
 
