@@ -23,8 +23,14 @@ The current 'Droplets' view:
 A mockup of what it might look like to have a group, including a high-level snapshot of performance status:
 ![2-droplets-group-mockup](https://cloud.githubusercontent.com/assets/6846053/13792910/ac953122-eaca-11e5-8ed4-902a76d5cdd0.jpg)
 
+---
+###Drill Down
+A user wants to drill past the top-level status message and monitor the state of multiple droplets, so they click through and see some kind of compound graph or monitoring system similar to your internal team or the sketch below:
+<img src="https://cloud.githubusercontent.com/assets/6846053/13792917/acb1f44c-eaca-11e5-9147-55feacdfbba2.jpg">
+<img src="https://cloud.githubusercontent.com/assets/6846053/13800487/0fb27906-eb00-11e5-845d-9894f241a59f.jpg">
+
 --- 
 ### Additional Ideas
 When your droplets are processing and the user is waiting for status bars to show that set-up is complete, there is an opportunity to do something: why not ask if they want these droplets to be grouped?
-<img src="https://cloud.githubusercontent.com/assets/6846053/13800487/0fb27906-eb00-11e5-845d-9894f241a59f.jpg">
+<img src="https://cloud.githubusercontent.com/assets/6846053/13792919/acb76f58-eaca-11e5-98eb-2b74134bf05c.jpg">
 
