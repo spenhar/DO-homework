@@ -14,4 +14,4 @@ View
 
 Operating under the assumption that the most common use case for viewing multiple droplet metrics is because you have an app with multiple droplets working together. 
 
-https://cloud.githubusercontent.com/assets/6846053/13792898/9ea6314c-eaca-11e5-84f2-3657dcbebd72.jpg
+[https://cloud.githubusercontent.com/assets/6846053/13792898/9ea6314c-eaca-11e5-84f2-3657dcbebd72.jpg]
